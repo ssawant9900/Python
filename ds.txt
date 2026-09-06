@@ -1,0 +1,2 @@
+cd /d D:\Data_Science\Anaconda_course
+jupyter lab

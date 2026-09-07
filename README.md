@@ -5,11 +5,11 @@ This repository contains my Python programming practice and Jupyter Notebook fil
 
 ## Contents
 
-- Python programs and practice files
-- Jupyter Lab / Jupyter Notebook files
-- Python concepts and exercises
-- Object-Oriented Programming (OOP)
-- Data structures and problem-solving
+- Python programs and practice files.
+- Jupyter Lab / Jupyter Notebook files.
+- Python concepts and exercises.
+- Object-Oriented Programming (OOP).
+- Data structures and problem-solving.
 
 ## Tools Used
 
